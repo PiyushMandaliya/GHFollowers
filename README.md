@@ -2,7 +2,7 @@
 
 ![Swift](https://github.com/tciuro/GHFollowers/workflows/Swift/badge.svg)
 
-### An app where user can search a GitHub profile via Username for their followers and can also add favorites. This is a tutorial course by Sean Allen (take home project), which has been developed by programmatic UI (no storyboards)😁.
+### An app where user can search a GitHub profile via Username for their followers and can also add favorites. App has been developed by 100% programmatic UI (no storyboards)😁.
 
 - [x] 100% ProgrammaticUI
 - [x] CollectionViews with the new DiffableDataSource
